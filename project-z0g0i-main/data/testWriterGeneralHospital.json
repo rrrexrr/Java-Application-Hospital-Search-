@@ -1,0 +1,16 @@
+{"hospitals": [{
+    "treatingPeriod": "Within 3 days",
+    "waitingList": [{
+        "isUrgent": true,
+        "symptom": "Broken Arm",
+        "treatingPeriod": "Within 3 days",
+        "name": "John Doe",
+        "description": "Minor fracture",
+        "expectedFee": 1000
+    }],
+    "availableSeats": 4,
+    "treatingSymptom": "Surgery",
+    "name": "UBC Hospital",
+    "hasAmbulance": true,
+    "averageCost": 2000
+}]}

@@ -1,0 +1,32 @@
+{
+    "hospitals": [
+      {
+        "name": "UBC Hospital",
+        "treatingSymptom": "Surgery",
+        "treatingPeriod": "Within 3 days",
+        "averageCost": 2000,
+        "hasAmbulance": true,
+        "availableSeats": 5,
+        "waitingList": [
+          {
+            "name": "John Doe",
+            "symptom": "Broken Arm",
+            "description": "Minor fracture",
+            "isUrgent": true,
+            "treatingPeriod": "Within 3 days",
+            "expectedFee": 1000
+          }
+        ]
+      },
+      {
+        "name": "St. Paul's Hospital",
+        "treatingSymptom": "Internal",
+        "treatingPeriod": "Within 2 days",
+        "averageCost": 1500,
+        "hasAmbulance": false,
+        "availableSeats": 10,
+        "waitingList": []
+      }
+    ]
+  }
+  

@@ -1,0 +1,72 @@
+{"hospitals": [
+    {
+        "treatingPeriod": "Within 3 days",
+        "waitingList": [{
+            "isUrgent": true,
+            "symptom": "1",
+            "treatingPeriod": "1",
+            "name": "1",
+            "description": "1",
+            "expectedFee": 1
+        }],
+        "availableSeats": 4,
+        "treatingSymptom": "Surgery",
+        "name": "UBC Hospital",
+        "hasAmbulance": true,
+        "averageCost": 2000
+    },
+    {
+        "treatingPeriod": "Within 2 days",
+        "waitingList": [],
+        "availableSeats": 10,
+        "treatingSymptom": "Internal",
+        "name": "Vancouver General Hospital",
+        "hasAmbulance": true,
+        "averageCost": 1500
+    },
+    {
+        "treatingPeriod": "Within 5 days",
+        "waitingList": [],
+        "availableSeats": 8,
+        "treatingSymptom": "Surgery",
+        "name": "St. Paul's Hospital",
+        "hasAmbulance": false,
+        "averageCost": 2500
+    },
+    {
+        "treatingPeriod": "Within 1 day",
+        "waitingList": [],
+        "availableSeats": 12,
+        "treatingSymptom": "Internal",
+        "name": "Mount Saint Joseph Hospital",
+        "hasAmbulance": true,
+        "averageCost": 1800
+    },
+    {
+        "treatingPeriod": "Within 4 days",
+        "waitingList": [],
+        "availableSeats": 6,
+        "treatingSymptom": "Surgery",
+        "name": "Burnaby Hospital",
+        "hasAmbulance": true,
+        "averageCost": 2200
+    },
+    {
+        "treatingPeriod": "Within 3 days",
+        "waitingList": [],
+        "availableSeats": 15,
+        "treatingSymptom": "Internal",
+        "name": "Richmond Hospital",
+        "hasAmbulance": false,
+        "averageCost": 1700
+    },
+    {
+        "treatingPeriod": "Within 7 days",
+        "waitingList": [],
+        "availableSeats": 9,
+        "treatingSymptom": "Surgery",
+        "name": "Lions Gate Hospital",
+        "hasAmbulance": true,
+        "averageCost": 2400
+    }
+]}
