@@ -1,7 +1,9 @@
 # My Personal Project
 <h2>Emergency Patient Help Center App in Vancouver Area</h2>
 
-
+<h3> My Personal Information </h3>
+  My name is Ziming Ren, you can also call me Rex. This is a personal project from my Computer Science course that I updated and added function for 
+  the purpose of development. My user name for school github was 'z0g0i'. Due to the closing of my school github account (which is just because the course ended), I uploaded my code for this project in my personal github account, so any 'z0g0i' you see in the files are me. This project was started from 2024.09.29 and up until 2024.11.29 where I finished the development. This is my first project so hopefully you enjoy it and provide me some feedbacks!
 <h3>Purpose of the Application</h3>
 This application called "Disability Patient Hellp Center" is designed to provide a convinent, informative,
 and helpful tool for people who experience disability or sudden injuries that they can check available hopsitals for their symptoms and call for help. 
